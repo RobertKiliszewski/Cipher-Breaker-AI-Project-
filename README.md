@@ -49,3 +49,13 @@ In the fields of computational linguistics and probability, an n-gram is a conti
 
 Using Latin numerical prefixes, an n-gram of size 1 is referred to as a "unigram"; size 2 is a "bigram" (or, less commonly, a "digram"); size 3 is a "trigram". English cardinal numbers are sometimes used, e.g., "four-gram", "five-gram", and so on. In computational biology, a polymer or oligomer of a known size is called a k-mer instead of an n-gram, with specific names using Greek numerical prefixes such as "monomer", "dimer", "trimer", "tetramer", "pentamer", etc., or English cardinal numbers, "one-mer", "two-mer", "three-mer", etc.
 
+## Simulated Annealing
+Simulated annealing (SA) is a probabilistic technique for approximating the global optimum of a given function. Specifically, it is a metaheuristic to approximate global optimization in a large search space. It is often used when the search space is discrete (e.g., all tours that visit a given set of cities). For problems where finding an approximate global optimum is more important than finding a precise local optimum in a fixed amount of time, simulated annealing may be preferable to alternatives such as gradient descent.
+
+## References
+
+[Stack Overflow](https://stackoverflow.com/)
+[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+[Simulated Annealing Tutorials](http://www.theprojectspot.com/tutorial-post/simulated-annealing-algorithm-for-beginners/6)
+[nGrams Tutorial](https://stackoverflow.com/questions/3656762/n-gram-generation-from-a-sentence)
+
