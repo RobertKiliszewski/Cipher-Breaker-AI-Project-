@@ -55,7 +55,14 @@ Simulated annealing (SA) is a probabilistic technique for approximating the glob
 ## References
 
 [Stack Overflow](https://stackoverflow.com/)
+
+[Java Docs](https://docs.oracle.com/en/)
+
 [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+
 [Simulated Annealing Tutorials](http://www.theprojectspot.com/tutorial-post/simulated-annealing-algorithm-for-beginners/6)
+
 [nGrams Tutorial](https://stackoverflow.com/questions/3656762/n-gram-generation-from-a-sentence)
+
+[KeyGeneration](https://docs.oracle.com/javase/7/docs/api/javax/crypto/KeyGenerator.html)
 
